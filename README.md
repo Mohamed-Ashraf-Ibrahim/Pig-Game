@@ -19,7 +19,7 @@ The first player to reach the winning score (default is 100) wins the game.
 
 ## How to Play
 
-1. Visit the game website: [Pig Game v2](https://pig-game-v2.netlify.app/)
+1. Visit the game website: [Pig Game v2](https://66451746a35591781c3d4d1b--unrivaled-pastelito-13195d.netlify.app/)
 2. Click "New Game" to start a new game.
 3. Roll the dice using the "Roll Dice" button.
 4. Accumulate points by rolling numbers (2-6) and choose to "Hold" to save your points.
